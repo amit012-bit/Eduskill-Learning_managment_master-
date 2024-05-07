@@ -1,0 +1,1 @@
+"Introducing EduSkill: Your ultimate learning management solution, revolutionizing online education! With EduSkill, educators can effortlessly create, manage, and deliver engaging courses, while learners enjoy a seamless, interactive learning experience. Think Udemy, but with added flexibility and customization. Join us on GitHub and be a part of the educational evolution!"
